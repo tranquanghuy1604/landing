@@ -2,6 +2,9 @@ export const NEXT_SEO_DEFAULT = {
   title: "Landing project",
   description: "Page funny",
   openGraph: {
+    type: "website",
+    locale: "en_US",
+    url: "/light-fast/women-hand-up-letter.png",
     images: [
       {
         url: "/homepage/study-img.png",
