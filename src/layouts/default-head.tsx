@@ -18,8 +18,6 @@ export default function DefaultHead() {
         <meta name="keywords" content="HTML, CSS, JavaScript" />
         <link rel="icon" type="image/png" href={"/homepage/study-img.png"} />
         <meta property="og:image" content={`/homepage/study-img.png`} />
-        <meta name="twitter:image" content={`/homepage/study-img.png`} />
-        <meta property="telegram:image" content={`/homepage/study-img.png`} />
       </Head>
     </div>
   );
