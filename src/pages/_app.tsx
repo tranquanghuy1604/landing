@@ -17,8 +17,7 @@ export default function App({ Component, pageProps }: AppPropsWithLayout) {
   return (
     <>
       <DefaultSeo {...NEXT_SEO_DEFAULT} />
-      getLayout(
-      <Component {...pageProps} />)
+      {getLayout(<Component {...pageProps} />)}
     </>
   );
 }
