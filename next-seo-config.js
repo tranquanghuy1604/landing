@@ -5,6 +5,7 @@ export const NEXT_SEO_DEFAULT = {
     title: "Landing project",
     type: "website",
     locale: "en_US",
+    description: "Landing funny",
     url: "/light-fast/women-hand-up-letter.png",
     siteName: "Landing",
     images: [
