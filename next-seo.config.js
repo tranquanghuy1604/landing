@@ -1,4 +1,4 @@
-export default NEXT_SEO_DEFAULT = {
+export const NEXT_SEO_DEFAULT = {
   title: "Landing project",
   description: "Page funny",
   openGraph: {
